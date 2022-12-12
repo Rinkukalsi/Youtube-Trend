@@ -1,5 +1,8 @@
 # Using NLP To Tailor Youtube Videos’ Description To Reach Their Intended Target Audience
 
+## Author
+Sampada Dhakal, Rinku Kalsi, Serena Parve, Hanna Song
+
 ## Research Goal
 Our research questions are how trending works for individual users, and how the youtube features would help videos from individual creators to get trending on Youtube. Through using the techniques of NLP, our goal is to create a platform where Youtubers can refine their descriptions to describe their video extensively and thus reach the audience that is looking for similar content using python language. 
 
