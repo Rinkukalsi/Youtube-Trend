@@ -13,7 +13,7 @@ Youtube is the most popular online video sharing website which maintains a list 
 
 ## Research Report
 Our report can be found from the following link:
-
+https://medium.com/@hanna.song/using-nlp-to-tailor-youtube-videos-description-to-reach-their-intended-target-audience-8102f7369d3d
 
 ## Resource
 Data
